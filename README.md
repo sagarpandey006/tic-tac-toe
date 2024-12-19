@@ -70,4 +70,4 @@ Tic-Tac-Toe/
 - **Email**: [officialsagar006@gmail.com](mailto:officialsagar006@gmail.com)
 - **Connect with me**:  
   - [LinkedIn](https://www.linkedin.com/in/sagarpandey006/)  
- - [Twitter](https://twitter.com/sagarpandey006)
+  - [Twitter](https://twitter.com/sagarpandey006)
